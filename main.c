@@ -1,4 +1,4 @@
-//Prateek joshua thotlapalem//
+//Prateek joshua mnmnmthotlapalem//
 
 #include <stdio.h>
 #include <omp.h>
