@@ -1,3 +1,5 @@
+//Prateek joshua thotlapalem//
+
 #include <stdio.h>
 #include <omp.h>
 #include <stdlib.h>
